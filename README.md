@@ -2,6 +2,7 @@
 
 - MongoDB
 - React
+- Redux
 - NodeJs
 - ExpressJS
 - httpOnlyCookie
